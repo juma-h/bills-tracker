@@ -30,9 +30,9 @@ export default function Home() {
         </div>
       </div>
 
-      <div className="w-full lg:w-3/4 mx-auto mt-8 lg:mt-16">
+      <div className="w-full lg:w-3/4 mx-auto mt-8 lg:mt-16 my-5">
       <p className="text-gray-700">
-            The Kenyan Finance Bill of 2024 is a legislative proposal that
+            The Kenyan Finance Bill is a legislative proposal that
             outlines the government&apos;s revenue-raising measures and spending
             plans for the fiscal year 2024/2025. This bill is a critical
             component of the national budgetary process, aiming to fund public
@@ -40,10 +40,10 @@ export default function Home() {
             programs.
           </p>
 
-        <p className="text-center mb-5">
+        <p className="text-center my-5 ">
           This
           <a
-            className="text-orange-600" 
+            className="text-orange-600 mx-1" 
             href="https://globaltaxnews.ey.com/news/2024-1032-kenya-proposes-tax-changes-under-the-finance-bill-2024"
             target="_blank"
           >
