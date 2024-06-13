@@ -54,11 +54,11 @@ const PieChartComponent: React.FC = () => {
     const pieChartData = calculateVoteCounts();
 
     // Define colors for the pie chart sectors
-    const COLORS = ['#D1ED8D', '#FF0000', '#004E84'];
+    const COLORS = ['#D1ED8D', '#FF0000', '#FFA500'];
 
     return (
         <div style={{ width: '100%', height: '600px', textAlign: 'center' }}>
-            <h2 className='text-center font-semibold'>Finance Bill 2023 Votes</h2>
+           
             <ResponsiveContainer width="90%" height="80%">
                 <PieChart>
                     <Pie
