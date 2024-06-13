@@ -47,10 +47,11 @@ const TableData: React.FC = () => {
       <div className="mb-4">
         <input
           type="text"
+
           placeholder="Search by name"
           value={searchTerm}
           onChange={handleSearch}
-          className="px-4 py-2 border rounded-lg w-full"
+          className="px-4 py-2 border rounded-lg w-full text-black" 
         />
       </div>
       <table className="w-full text-sm text-left rtl:text-right text-gray-500 dark:text-gray-400">
