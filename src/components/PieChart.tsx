@@ -1,7 +1,8 @@
 "use client"
 import React, { useEffect, useState } from 'react';
 import { PieChart, Pie, Cell, ResponsiveContainer, Legend, Tooltip } from 'recharts';
-import votesData from "../json-data/csv.json";
+import votesData2023 from "../json-data/csv.json";
+import votesData2024 from "../json-data/fb24.json";
 
 interface VoteData {
     name: string;
@@ -10,17 +11,31 @@ interface VoteData {
 
 const PieChartComponent: React.FC = () => {
     const [data, setData] = useState<VoteData[]>([]);
+    const [year, setYear] = useState<string>('2023');
 
-    // Example JSON data (replace with your actual data)
-    const fetchData = () => {
-        // Simulating fetching data from an API or local source
-        const jsonData: VoteData[] = votesData;
-        setData(jsonData);
+    // Function to normalize data to the required structure
+    const normalizeData = (rawData: any[]): VoteData[] => {
+        return rawData.map(item => ({
+            name: item.MP,
+            vote: item.vote
+        }));
+    };
+
+    // Function to fetch data based on the selected year
+    const fetchData = (year: string) => {
+        let rawData: any[] = [];
+        if (year === '2023') {
+            rawData = votesData2023;
+        } else if (year === '2024') {
+            rawData = votesData2024;
+        }
+        const normalizedData = normalizeData(rawData);
+        setData(normalizedData);
     };
 
     useEffect(() => {
-        fetchData();
-    }, []);
+        fetchData(year);
+    }, [year]);
 
     // Function to calculate counts of YES, NO, and ABSENT votes
     const calculateVoteCounts = () => {
@@ -56,9 +71,20 @@ const PieChartComponent: React.FC = () => {
     // Define colors for the pie chart sectors
     const COLORS = ['#D1ED8D', '#FF0000', '#FFA500'];
 
-    return (
+    return  (
         <div style={{ width: '100%', height: '600px', textAlign: 'center' }}>
-           
+            <div className='w-1/4'>
+                <label htmlFor="year-select mb-4">Select Year: </label>
+                <select
+                    id="year-select"
+                     className="bg-white dark:bg-gray-700 border border-gray-300 dark:border-gray-600 text-gray-900 dark:text-white text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:placeholder-gray-400 dark:focus:ring-blue-500 dark:focus:border-blue-500"
+                    value={year}
+                    onChange={(e) => setYear(e.target.value)}
+                >
+                    <option value="2023">2023</option>
+                    <option value="2024">2024</option>
+                </select>
+            </div>
             <ResponsiveContainer width="90%" height="80%">
                 <PieChart>
                     <Pie
@@ -85,4 +111,3 @@ const PieChartComponent: React.FC = () => {
 };
 
 export default PieChartComponent;
-

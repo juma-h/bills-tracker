@@ -52,7 +52,7 @@ export default function Home() {
           summarizes what is proposed in the 2024 act
         </p>
 
-        <h2 className='text-center font-semibold'>Finance Bill 2023 Votes</h2>
+        <h2 className='text-center font-semibold'>Finance Bill Votes</h2>
 
         {visualization === "charts" && <Example />}
         {visualization === "table" && <TableData />}
