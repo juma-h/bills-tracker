@@ -4,2197 +4,2323 @@
         "MP": "Samuel Chepkonga",
         "Constituency": "",
         "Party": "",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "2",
         "MP": "Benjamin Langat",
         "Constituency": "Ainamoi",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "3",
         "MP": "Marianne Jebet Kitany",
         "Constituency": "Aldai",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "4",
         "MP": "Samuel Atandi",
         "Constituency": "Alego Usonga",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
         "No.": "5",
         "MP": "John Owino",
         "Constituency": "Awendo",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
         "No.": "6",
         "MP": "Irene Mrembo Njoki",
         "Constituency": "Bahati",
         "Party": "JP",
-        "vote": "ABSENT"
+        "": "ABSENT"
     },
     {
         "No.": "7",
         "MP": "Abdi Omar Shurie",
         "Constituency": "Balambala",
         "Party": "JP",
-        "vote": "ABSENT"
+        "": "ABSENT"
     },
     {
         "No.": "8",
         "MP": "Florence Jematia",
-        "Constituency": "",
+        "Constituency": "WR Baringo",
         "Party": "",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "9",
         "MP": "Joshua Chepyegon Kandie",
         "Constituency": "Baringo Central",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "10",
         "MP": "Joseph Kipkoross Makilap",
         "Constituency": "Baringo North",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "11",
         "MP": "Charles Kamuren",
         "Constituency": "Baringo South",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "12",
         "MP": "Nelson Koech",
         "Constituency": "Belgut",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "13",
         "MP": "Obadiah Barongo",
         "Constituency": "Bomachoge Borabu",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
         "No.": "14",
         "MP": "Alfa Miruka Ondieki",
         "Constituency": "Bomachoge Chache",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "15",
         "MP": "Linet Chepkorir",
-        "Constituency": "",
+        "Constituency": "WR Bomet",
         "Party": "",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "16",
         "MP": "Richard Kilel",
         "Constituency": "Bomet Central",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "17",
         "MP": "Richard Yegon",
         "Constituency": "Bomet East",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "18",
         "MP": "Gideon Ochanda",
         "Constituency": "Bondo",
         "Party": "ODM",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "19",
         "MP": "Patrick Kibagendi Osero",
         "Constituency": "Borabu",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
         "No.": "20",
         "MP": "Raphael Wanjala",
         "Constituency": "Budalangi",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
         "No.": "21",
         "MP": "Jack Wamboka",
         "Constituency": "Bumula",
         "Party": "DAP–K",
-        "vote": "NO"
+        "": "NO"
     },
     {
         "No.": "22",
         "MP": "Catherine Wambilianga",
-        "Constituency": "",
+        "Constituency": "WR, Bungoma",
         "Party": "",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "23",
         "MP": "Yakub Adow",
         "Constituency": "Bura",
         "Party": "UPIA",
-        "vote": "ABSENT"
+        "": "ABSENT"
     },
     {
         "No.": "24",
         "MP": "Kibet Kirui Komingoi",
         "Constituency": "Bureti",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "25",
         "MP": "Catherine Omanyo",
-        "Constituency": "",
+        "Constituency": "WR Busia",
         "Party": "",
-        "vote": "NO"
+        "": "NO"
     },
     {
         "No.": "26",
         "MP": "Tindi Mwale",
         "Constituency": "Butere",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
         "No.": "27",
         "MP": "Joseph Maelo Oyula",
         "Constituency": "Butula",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
         "No.": "28",
         "MP": "Mugambi Ridikiri Murwithania",
         "Constituency": "Buuri",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "29",
         "MP": "Moses Nguchine Kirima",
         "Constituency": "Central Imenti",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "30",
         "MP": "Omar Mwinyi",
         "Constituency": "Changamwe",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
         "No.": "31",
         "MP": "Victor Koech",
         "Constituency": "Chepalungu",
         "Party": "CCM",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "32",
         "MP": "Patrick Simiyu Barasa",
         "Constituency": "Cherangany",
         "Party": "DAP–K",
-        "vote": "NO"
+        "": "NO"
     },
     {
         "No.": "33",
         "MP": "Paul Kibichiy Biego",
         "Constituency": "Chesumei",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "34",
         "MP": "Patrick Munene Ntwiga",
         "Constituency": "Chuka Igambang'ombe",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "35",
         "MP": "Farah Maalim",
         "Constituency": "Dadaab",
         "Party": "Wiper",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "36",
         "MP": "Beatrice Elachi",
         "Constituency": "Dagoretti North",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
         "No.": "37",
         "MP": "John Kiarie Waweru",
         "Constituency": "Dagoretti South",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "38",
         "MP": "Musa Sirma",
         "Constituency": "Eldama Ravine",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "39",
         "MP": "Adan Keynan Wehliye",
         "Constituency": "Eldas",
         "Party": "ODM",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "40",
         "MP": "Jeptoo Caroline",
-        "Constituency": "",
+        "Constituency": "WR Marakwet",
         "Party": "",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "41",
         "MP": "Benjamin Mwangi",
         "Constituency": "Embakasi Central",
         "Party": "UDA",
-        "vote": "ABSENT"
+        "": "ABSENT"
     },
     {
         "No.": "42",
         "MP": "Babu Owino",
         "Constituency": "Embakasi East",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
         "No.": "43",
         "MP": "James Gakuya",
         "Constituency": "Embakasi North",
         "Party": "UDA",
-        "vote": "ABSENT"
+        "": "ABSENT"
     },
     {
         "No.": "44",
         "MP": "Julius Mwathe",
         "Constituency": "Embakasi South",
         "Party": "Wiper",
-        "vote": "NO"
+        "": "NO"
     },
     {
         "No.": "45",
         "MP": "Mark Mwenje",
         "Constituency": "Embakasi West",
         "Party": "JP",
-        "vote": "NO"
+        "": "NO"
     },
     {
         "No.": "46",
         "MP": "Josses Kiptoo Kosgei Lelmengit",
         "Constituency": "Emgwen",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "47",
         "MP": "Milemba Amboko",
         "Constituency": "Emuhaya",
         "Party": "ANC",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "48",
         "MP": "Johana Ngeno Kipyegon",
         "Constituency": "Emurua Dikirr",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "49",
         "MP": "Robert Pukose",
         "Constituency": "Endebess",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "50",
         "MP": "Salah Yakub Farah",
         "Constituency": "Fafi",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "51",
         "MP": "Wilberforce Oundo",
         "Constituency": "Funyula",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
         "No.": "52",
         "MP": "Said Buya Hiribae",
         "Constituency": "Galole",
         "Party": "ODM",
-        "vote": "ABSENT"
+        "": "ABSENT"
     },
     {
         "No.": "53",
         "MP": "Charo Kenneth Kazungu Tungule",
         "Constituency": "Ganze",
         "Party": "PAA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "54",
         "MP": "Udgoon Siyyad",
         "Constituency": "Garissa Township",
         "Party": "UDA",
-        "vote": "NO"
+        "": "NO"
     },
     {
         "No.": "55",
         "MP": "Baro Dekow",
-        "Constituency": "",
+        "Constituency": "Garissa Town",
         "Party": "",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "56",
         "MP": "Ali Wario Guyo",
         "Constituency": "Garsen",
         "Party": "ODM",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "57",
         "MP": "Edward Muriu",
         "Constituency": "Gatanga",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "58",
         "MP": "Elijah Njoroge Kururia",
         "Constituency": "Gatundu North",
         "Party": "Independent",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "59",
         "MP": "Gabriel Gathuka Kagombe",
         "Constituency": "Gatundu South",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "60",
         "MP": "Elisha Odhiambo",
         "Constituency": "Gem",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
         "No.": "61",
         "MP": "Robert Gichimu Githinji",
         "Constituency": "Gichugu",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "62",
         "MP": "Martha Wangari Wanjira",
         "Constituency": "Gilgil",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "63",
         "MP": "Gathoni Wamuchomba",
         "Constituency": "Githunguri",
         "Party": "UDA",
-        "vote": "NO"
+        "": "NO"
     },
     {
         "No.": "64",
         "MP": "Charles Gimose",
         "Constituency": "Hamisi",
         "Party": "ANC",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "65",
         "MP": "Joyce Bensuda",
-        "Constituency": "",
+        "Constituency": "WR Homa Bay",
         "Party": "",
-        "vote": "NO"
+        "": "NO"
     },
     {
         "No.": "66",
         "MP": "Peter Kaluma",
         "Constituency": "Homa Bay Town",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
         "No.": "67",
         "MP": "Dan Kiili Karitho",
         "Constituency": "Igembe Central",
         "Party": "JP",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "68",
         "MP": "Julius Taitumu M'anaiba",
         "Constituency": "Igembe North",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "69",
         "MP": "John Paul Mwirigi",
         "Constituency": "Igembe South",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "70",
         "MP": "Abdi Ali Sheikhow",
         "Constituency": "Ijara",
         "Party": "NAP–K",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "71",
         "MP": "Bernard Shinali",
         "Constituency": "Ikolomani",
         "Party": "ODM",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "72",
         "MP": "Mumina Bonaya",
-        "Constituency": "",
+        "Constituency": "WR Isiolo",
         "Party": "",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "73",
         "MP": "Joseph Samal Lomwa",
         "Constituency": "Isiolo North",
         "Party": "JP",
-        "vote": "ABSENT"
+        "": "ABSENT"
     },
     {
         "No.": "74",
         "MP": "Mohamed Tubi",
         "Constituency": "Isiolo South",
         "Party": "JP",
-        "vote": "ABSENT"
+        "": "ABSENT"
     },
     {
         "No.": "75",
         "MP": "Bady Twalib",
         "Constituency": "Jomvu",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
         "No.": "76",
         "MP": "George Koimburi Ndungu",
         "Constituency": "Juja",
         "Party": "UDA",
-        "vote": "NO"
+        "": "NO"
     },
     {
         "No.": "77",
         "MP": "James Githua Kamau Wamacukuru",
         "Constituency": "Kabete",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "78",
         "MP": "Eve Akinyi Obara",
         "Constituency": "Kabondo Kasipul",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
         "No.": "79",
         "MP": "Joseph Simiyu Wekesa Majimbo Kalasinga",
         "Constituency": "Kabuchai",
         "Party": "FORD–Kenya",
-        "vote": "NO"
+        "": "NO"
     },
     {
         "No.": "80",
         "MP": "Titus Lotee",
         "Constituency": "Kacheliba",
         "Party": "KUP",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "81",
         "MP": "Joshua Kivinda Kimilu",
         "Constituency": "Kaiti",
         "Party": "Wiper",
-        "vote": "NO"
+        "": "NO"
     },
     {
         "No.": "82",
         "MP": "Leah Sankaire",
-        "Constituency": "",
+        "Constituency": "WR Kajiado",
         "Party": "",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "83",
         "MP": "Elijah Memusi Ole Kanchory",
         "Constituency": "Kajiado Central",
         "Party": "ODM",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "84",
         "MP": "Kakuta Maimai Hamisi",
         "Constituency": "Kajiado East",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
         "No.": "85",
         "MP": "Onesmus Ngogoyo Nguro",
         "Constituency": "Kajiado North",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "86",
         "MP": "Samuel Parashina Sakimba",
         "Constituency": "Kajiado South",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
         "No.": "87",
         "MP": "George Sunkuyia Risa",
         "Constituency": "Kajiado West",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "88",
         "MP": "Elsi Muhanda",
-        "Constituency": "",
+        "Constituency": "WR Kakamega",
         "Party": "",
-        "vote": "NO"
+        "": "NO"
     },
     {
         "No.": "89",
         "MP": "Katana Paul Kahindi",
         "Constituency": "Kaloleni",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
         "No.": "90",
         "MP": "Yusuf Hassan Abdi",
         "Constituency": "Kamukunji",
         "Party": "JP",
-        "vote": "NO"
+        "": "NO"
     },
     {
         "No.": "91",
         "MP": "Chege Njuguna",
         "Constituency": "Kandara",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "92",
         "MP": "John Makali",
         "Constituency": "Kanduyi",
         "Party": "FORD–Kenya",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "93",
         "MP": "Peter Irungu Kihungi",
         "Constituency": "Kangema",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "94",
         "MP": "Fabian Kyule Mule",
         "Constituency": "Kangundo",
         "Party": "GDDP",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "95",
         "MP": "Samwel Moroto Chumel",
         "Constituency": "Kapenguria",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "96",
         "MP": "Oscar Kipchumba Sudi",
         "Constituency": "Kapseret",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "97",
         "MP": "Andrew Adipo Okuome",
         "Constituency": "Karachuonyo",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
         "No.": "98",
         "MP": "Ronald Karauri",
         "Constituency": "Kasarani",
         "Party": "Independent",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "99",
         "MP": "Charles Ong’ondo Were",
         "Constituency": "Kasipul",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
         "No.": "100",
         "MP": "Robert Mbui",
         "Constituency": "Kathiani",
         "Party": "Wiper",
-        "vote": "NO"
+        "": "NO"
     },
     {
         "No.": "101",
         "MP": "Adams Kipsanai Korir",
         "Constituency": "Keiyo North",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "102",
         "MP": "Gideon Kimaiyo Kipkoech",
         "Constituency": "Keiyo South",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "103",
         "MP": "Beatrice Kemei",
-        "Constituency": "",
+        "Constituency": "WR Kericho",
         "Party": "",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "104",
         "MP": "Julius Kipletting Rutto",
         "Constituency": "Kesses",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "105",
         "MP": "Christopher Aseka Wangaya",
         "Constituency": "Khwisero",
         "Party": "ODM",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "106",
         "MP": "John Njuguna Wanjiku",
         "Constituency": "Kiambaa",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "107",
         "MP": "John Machua Waithaka",
         "Constituency": "Kiambu",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "108",
         "MP": "Wamuratha Wanjiku",
-        "Constituency": "",
+        "Constituency": "WR Kiambu",
         "Party": "",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "109",
         "MP": "Peter Ochieng Orero",
         "Constituency": "Kibra",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
         "No.": "110",
         "MP": "Jessica Nduku Kiko Mbalu",
         "Constituency": "Kibwezi East",
         "Party": "Wiper",
-        "vote": "NO"
+        "": "NO"
     },
     {
         "No.": "111",
         "MP": "Eckomas Mwengi Mutuse",
         "Constituency": "Kibwezi West",
         "Party": "MCCP",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "112",
         "MP": "Antony Njoroge Wainaina",
         "Constituency": "Kieni",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "113",
         "MP": "Joseph Kamau Munyoro",
         "Constituency": "Kigumo",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "114",
         "MP": "Samson Ndindi Nyoro",
         "Constituency": "Kiharu",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "115",
         "MP": "Kimani Ichung'wah",
         "Constituency": "Kikuyu",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "116",
         "MP": "Julius Sunkuli",
         "Constituency": "Kilgoris",
         "Party": "KANU",
-        "vote": "NO"
+        "": "NO"
     },
     {
         "No.": "117",
         "MP": "Gertrude Mbeyu",
-        "Constituency": "",
+        "Constituency": "WR Kilifi",
         "Party": "",
-        "vote": "NO"
-    },
-    {
-        "No.": "117",
-        "MP": "Owen Yaa Baya",
-        "Constituency": "Kilifi North",
-        "Party": "UDA",
-        "vote": "YES"
+        "": "NO"
     },
     {
         "No.": "118",
-        "MP": "Richard Ken Chonga Kiti",
-        "Constituency": "Kilifi South",
-        "Party": "ODM",
-        "vote": "NO"
+        "MP": "Owen Yaa Baya",
+        "Constituency": "Kilifi North",
+        "Party": "UDA",
+        "": "YES"
     },
     {
         "No.": "119",
-        "MP": "Thuddeus Kithua Nzambia",
-        "Constituency": "Kilome",
-        "Party": "Wiper",
-        "vote": "NO"
+        "MP": "Richard Ken Chonga Kiti",
+        "Constituency": "Kilifi South",
+        "Party": "ODM",
+        "": "NO"
     },
     {
         "No.": "120",
-        "MP": "Didmus Wekesa Barasa Mutua",
-        "Constituency": "Kimilili",
-        "Party": "UDA",
-        "vote": "YES"
+        "MP": "Thuddeus Kithua Nzambia",
+        "Constituency": "Kilome",
+        "Party": "Wiper",
+        "": "NO"
     },
     {
         "No.": "121",
-        "MP": "Maurice Kakai Bisau",
-        "Constituency": "Kiminini",
-        "Party": "DAP–K",
-        "vote": "NO"
+        "MP": "Didmus Wekesa Barasa Mutua",
+        "Constituency": "Kimilili",
+        "Party": "UDA",
+        "": "YES"
     },
     {
         "No.": "122",
-        "MP": "Samuel Gonzi Rai",
-        "Constituency": "Kinango",
-        "Party": "PAA",
-        "vote": "YES"
+        "MP": "Maurice Kakai Bisau",
+        "Constituency": "Kiminini",
+        "Party": "DAP–K",
+        "": "NO"
     },
     {
         "No.": "123",
-        "MP": "Zachary Thuku Kwenya",
-        "Constituency": "Kinangop",
-        "Party": "JP",
-        "vote": "YES"
+        "MP": "Samuel Gonzi Rai",
+        "Constituency": "Kinango",
+        "Party": "PAA",
+        "": "YES"
     },
     {
         "No.": "124",
-        "MP": "Muhia Wanjiku",
-        "Constituency": "Kipipiri",
-        "Party": "UDA",
-        "vote": "YES"
+        "MP": "Zachary Thuku Kwenya",
+        "Constituency": "Kinangop",
+        "Party": "JP",
+        "": "YES"
     },
     {
         "No.": "125",
-        "MP": "Joseph Kimutai Cherorot",
-        "Constituency": "Kipkelion East",
+        "MP": "Muhia Wanjiku",
+        "Constituency": "Kipipiri",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "126",
-        "MP": "Hillary Kiplangat Kosgei",
-        "Constituency": "Kipkelion West",
+        "MP": "Joseph Kimutai Cherorot",
+        "Constituency": "Kipkelion East",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "127",
-        "MP": "Gachoki Gitari",
-        "Constituency": "Kirinyaga Central",
+        "MP": "Hillary Kiplangat Kosgei",
+        "Constituency": "Kipkelion West",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
         "No.": "128",
-        "MP": "Rashid Juma Bedzimba",
-        "Constituency": "Kisauni",
-        "Party": "ODM",
-        "vote": "NO"
+        "MP": "Jane Maina",
+        "Constituency": "WR Kirinyaga",
+        "Party": "",
+        "": "ABSENT"
     },
     {
         "No.": "129",
-        "MP": "Joshua Odongo Oron",
-        "Constituency": "Kisumu Central",
-        "Party": "ODM",
-        "vote": "NO"
+        "MP": "Gachoki Gitari",
+        "Constituency": "Kirinyaga Central",
+        "Party": "UDA",
+        "": "YES"
     },
     {
         "No.": "130",
-        "MP": "Shakeel Shabbir",
-        "Constituency": "Kisumu East",
-        "Party": "Independent",
-        "vote": "ABSENT"
+        "MP": "Rashid Juma Bedzimba",
+        "Constituency": "Kisauni",
+        "Party": "ODM",
+        "": "NO"
     },
     {
         "No.": "131",
-        "MP": "Rozaah Akinyi Buyu",
-        "Constituency": "Kisumu West",
-        "Party": "ODM",
-        "vote": "NO"
+        "MP": "Donya Doris",
+        "Constituency": "WR Kisii",
+        "Party": "",
+        "": "ABSENT"
     },
     {
         "No.": "132",
-        "MP": "Irene Kasalu",
-        "Constituency": "",
+        "MP": "Ruth Odinga Busia",
+        "Constituency": "WR Kisumu",
         "Party": "",
-        "vote": "NO"
+        "": "NO"
     },
     {
         "No.": "133",
-        "MP": "Makali Benson Mulu",
-        "Constituency": "Kitui Central",
-        "Party": "Wiper",
-        "vote": "NO"
+        "MP": "Joshua Oron",
+        "Constituency": "Kisumu Central",
+        "Party": "ODM",
+        "": ""
     },
     {
         "No.": "134",
-        "MP": "Nimrod Mbithuka Mbai",
-        "Constituency": "Kitui East",
-        "Party": "UDA",
-        "vote": "YES"
+        "MP": "Shakeel Shabbir",
+        "Constituency": "Kisumu East",
+        "Party": "Independent",
+        "": "ABSENT"
     },
     {
         "No.": "135",
-        "MP": "David Mwalika Mboni",
-        "Constituency": "Kitui Rural",
-        "Party": "Wiper",
-        "vote": "NO"
+        "MP": "Rozaah Akinyi Buyu",
+        "Constituency": "Kisumu West",
+        "Party": "ODM",
+        "": "NO"
     },
     {
         "No.": "136",
-        "MP": "Rachael Kaki Nyamai",
-        "Constituency": "Kitui South",
-        "Party": "JP",
-        "vote": "YES"
+        "MP": "Irene Kasalu",
+        "Constituency": "WR Kitui",
+        "Party": "",
+        "": "NO"
     },
     {
         "No.": "137",
-        "MP": "Edith Vethi Nyenze",
-        "Constituency": "Kitui West",
+        "MP": "Makali Benson Mulu",
+        "Constituency": "Kitui Central",
         "Party": "Wiper",
-        "vote": "NO"
+        "": "NO"
     },
     {
         "No.": "138",
+        "MP": "Nimrod Mbithuka Mbai",
+        "Constituency": "Kitui East",
+        "Party": "UDA",
+        "": "YES"
+    },
+    {
+        "No.": "139",
+        "MP": "David Mwalika Mboni",
+        "Constituency": "Kitui Rural",
+        "Party": "Wiper",
+        "": "NO"
+    },
+    {
+        "No.": "140",
+        "MP": "Rachael Kaki Nyamai",
+        "Constituency": "Kitui South",
+        "Party": "JP",
+        "": "YES"
+    },
+    {
+        "No.": "141",
+        "MP": "Edith Vethi Nyenze",
+        "Constituency": "Kitui West",
+        "Party": "Wiper",
+        "": "NO"
+    },
+    {
+        "No.": "142",
         "MP": "Nyakundi Japheth Mokaya",
         "Constituency": "Kitutu Chache North",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "143",
         "MP": "Antoney Kibagendi",
         "Constituency": "Kitutu Chache South",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "144",
         "MP": "Clive Ombane Gisairo",
         "Constituency": "Kitutu Masaba",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "145",
         "MP": "Yegon Brighton Leonard",
         "Constituency": "Konoin",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "146",
         "MP": "Alfred Kiprono Mutai",
         "Constituency": "Kuresoi North",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "147",
         "MP": "Joseph Kipkosgei Tonui",
         "Constituency": "Kuresoi South",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "148",
         "MP": "Marwa Kitayama",
         "Constituency": "Kuria East",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "149",
         "MP": "Mathias Robi",
         "Constituency": "Kuria West",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "150",
+        "MP": "Fatuma Masito",
+        "Constituency": "WR Migori",
+        "Party": "",
+        "": "NO"
+    },
+    {
+        "No.": "151",
         "MP": "Ferdinand Kevin Wanyonyi",
         "Constituency": "Kwanza",
         "Party": "FORD–Kenya",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "152",
         "MP": "Mohamed Abdi Abdirahman",
         "Constituency": "Lafey",
         "Party": "JP",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "153",
         "MP": "Abdikadir Hussein Mohamed",
         "Constituency": "Lagdera",
         "Party": "ODM",
-        "vote": "NO"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "154",
+        "MP": "Jane Kagiri",
+        "Constituency": "WR Laikipia",
+        "Party": "",
+        "": "YES"
+    },
+    {
+        "No.": "155",
         "MP": "Mwangi Kiunjuri",
         "Constituency": "Laikipia East",
         "Party": "TSP",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "156",
         "MP": "Sarah Paulata Korere",
         "Constituency": "Laikipia North",
         "Party": "JP",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "157",
         "MP": "Wachira Wachira Karani",
         "Constituency": "Laikipia West",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "158",
         "MP": "Joseph Lekuton",
         "Constituency": "Laisamis",
         "Party": "UDM",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "159",
+        "MP": "Muthoni Marubu",
+        "Constituency": "WR Lamu",
+        "Party": "",
+        "": "YES"
+    },
+    {
+        "No.": "160",
         "MP": "Ruweida Mohamed Obo",
         "Constituency": "Lamu East",
         "Party": "JP",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "161",
         "MP": "Muiruri Muthama Stanley",
         "Constituency": "Lamu West",
         "Party": "JP",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "162",
         "MP": "Phelix Odiwuor Khodhe",
         "Constituency": "Langata",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "163",
         "MP": "Joseph Mburu Kahangara",
         "Constituency": "Lari",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "164",
         "MP": "Mishi Juma Khamisi Mboko",
         "Constituency": "Likoni",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "165",
         "MP": "Innocent Mugabe",
         "Constituency": "Likuyani",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "166",
         "MP": "John Kiragu Chege",
         "Constituency": "Limuru",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "167",
         "MP": "Protus Ewesit Akuja",
         "Constituency": "Loima",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "168",
         "MP": "Dick Maungu",
         "Constituency": "Luanda",
         "Party": "DAP–K",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "169",
         "MP": "Nabii Daraja Nabwera",
         "Constituency": "Lugari",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "170",
         "MP": "Mangale Munga Chiforomodo",
         "Constituency": "Lunga Lunga",
         "Party": "ODM",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "171",
         "MP": "Titus Khamala",
         "Constituency": "Lurambi",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "172",
         "MP": "Japhet Miriti Kareke Mbiuki",
         "Constituency": "Maara",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "173",
         "MP": "Joyce Kamene",
-        "Constituency": "",
+        "Constituency": "WR Machakos",
         "Party": "",
-        "vote": "YES"
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "174",
         "MP": "Caleb Mutiso Mule",
         "Constituency": "Machakos Town",
         "Party": "Wiper",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
-        "MP": "Harrison Garama Kombe",
-        "Constituency": "Magarini",
-        "Party": "ODM",
-        "vote": ""
-    },
-    {
-        "No.": "",
+        "No.": "175",
         "MP": "George Aladwa",
         "Constituency": "Makadara",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
-        "MP": "Rose Mumo",
-        "Constituency": "",
-        "Party": "",
-        "vote": "NO"
-    },
-    {
-        "No.": "",
+        "No.": "176",
         "MP": "Suzanne Ndunge Kiamba",
         "Constituency": "Makueni",
         "Party": "Wiper",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "177",
+        "MP": "Rose Mumo",
+        "Constituency": "WR Makueni",
+        "Party": "",
+        "": "NO"
+    },
+    {
+        "No.": "178",
         "MP": "Moses Malulu Injendi",
         "Constituency": "Malava",
         "Party": "ANC",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "179",
         "MP": "Amina Laura Mnyazi",
         "Constituency": "Malindi",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
-        "MP": "Husseinweytan Mohamed Abdirahman",
-        "Constituency": "Mandera East",
-        "Party": "ODM",
-        "vote": "NO"
-    },
-    {
-        "No.": "",
+        "No.": "180",
         "MP": "Bashir Sheikh Abdullahi",
         "Constituency": "Mandera North",
         "Party": "UDM",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "181",
+        "MP": "Umul Kassim",
+        "Constituency": "WR Mandera",
+        "Party": "",
+        "": "YES"
+    },
+    {
+        "No.": "182",
+        "MP": "Husseinweytan Mohamed Abdirahman",
+        "Constituency": "Mandera East",
+        "Party": "ODM",
+        "": "NO"
+    },
+    {
+        "No.": "183",
         "MP": "Abdul Ebraim Haro",
         "Constituency": "Mandera South",
         "Party": "UDM",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "184",
         "MP": "Adan Haji Yussuf",
         "Constituency": "Mandera West",
         "Party": "UDM",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "185",
         "MP": "John Gitonga Mwaniki Mukunji",
         "Constituency": "Manyatta",
         "Party": "UDA",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "186",
         "MP": "Mary Wamaua Waithira Njoroge",
         "Constituency": "Maragwa",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "187",
         "MP": "David Kangogo Bowen",
         "Constituency": "Marakwet East",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "188",
         "MP": "Timothy Kipchumba Toroitich",
         "Constituency": "Marakwet West",
         "Party": "Independent",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "189",
         "MP": "Naomi Waqo",
-        "Constituency": "",
+        "Constituency": "WR Marsabit",
         "Party": "",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "190",
         "MP": "Joshua Mbithi Mutua Mwalyo",
         "Constituency": "Masinga",
         "Party": "Independent",
-        "vote": "ABSENT"
+        "": "ABSENT"
     },
     {
-        "No.": "",
+        "No.": "191",
         "MP": "Godffrey Odanga",
         "Constituency": "Matayos",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "192",
         "MP": "Anthony Oluoch",
         "Constituency": "Mathare",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
-        "MP": "Edwin Mugo Gichuki",
-        "Constituency": "Mathioya",
-        "Party": "UDA",
-        "vote": ""
-    },
-    {
-        "No.": "",
+        "No.": "193",
         "MP": "Eric Mwangi Kahugu",
         "Constituency": "Mathira",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "194",
         "MP": "Kassim Sawa Tandaza",
         "Constituency": "Matuga",
         "Party": "ANC",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "195",
         "MP": "Peter Oscar Nabulindo",
         "Constituency": "Matungu",
         "Party": "ODM",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "196",
         "MP": "Stephen Mutinda Mule",
         "Constituency": "Matungulu",
         "Party": "Wiper",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
-        "MP": "Patrick Makau King'ola",
-        "Constituency": "Mavoko",
-        "Party": "Wiper",
-        "vote": ""
-    },
-    {
-        "No.": "",
+        "No.": "197",
         "MP": "Geoffrey Kariuki Kiringa Ruku",
         "Constituency": "Mbeere North",
         "Party": "DP",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "198",
         "MP": "Benard Muriuki Nebert",
         "Constituency": "Mbeere South",
         "Party": "Independent",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "199",
         "MP": "Erastus Kivasu Nzioka",
         "Constituency": "Mbooni",
         "Party": "Wiper",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "200",
         "MP": "Elizabeth Kailemia",
-        "Constituency": "",
+        "Constituency": "WR Meru",
         "Party": "",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "201",
         "MP": "Fatuma Zainab",
-        "Constituency": "",
+        "Constituency": "WR Wajir",
         "Party": "",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "202",
         "MP": "Reuben Kiborek Kipngor",
         "Constituency": "Mogotio",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "203",
         "MP": "Phylis Jepkemoi Bartoo",
         "Constituency": "Moiben",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "204",
         "MP": "Francis Kuria Kimani",
         "Constituency": "Molo",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "205",
+        "MP": "Zamzam Mohamed",
+        "Constituency": "WR Mombasa",
+        "Party": "",
+        "": "NO"
+    },
+    {
+        "No.": "206",
         "MP": "Abraham Kipsang Kirwa",
         "Constituency": "Mosop",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
-        "MP": "Guyo Waqo Jaldesa",
-        "Constituency": "Moyale",
-        "Party": "UPIA",
-        "vote": ""
-    },
-    {
-        "No.": "",
+        "No.": "207",
         "MP": "Feisal Abdallah Bader Salim",
         "Constituency": "Msambweni",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "208",
         "MP": "Fred Kapondi Chesebe",
         "Constituency": "Mt. Elgon",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "209",
         "MP": "James Onyango Oyoo",
         "Constituency": "Muhoroni",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "210",
         "MP": "Kaguchia John Philip Gichohi",
         "Constituency": "Mukurweini",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "211",
         "MP": "Peter Kalerwa Salasya",
         "Constituency": "Mumias East",
         "Party": "DAP–K",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "212",
         "MP": "Johnson Manya Naicca",
         "Constituency": "Mumias West",
         "Party": "ODM",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "213",
         "MP": "Betty Maina",
-        "Constituency": "",
+        "Constituency": "WR Murang'a",
         "Party": "",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "214",
         "MP": "Machele Mohamed Soud",
         "Constituency": "Mvita",
         "Party": "ODM",
-        "vote": "YES"
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "215",
         "MP": "Vincent Musyoka Musau",
         "Constituency": "Mwala",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
-        "MP": "Peter Mbogho Shake",
-        "Constituency": "Mwatate",
-        "Party": "JP",
-        "vote": ""
-    },
-    {
-        "No.": "",
+        "No.": "216",
         "MP": "Mary Maingi",
         "Constituency": "Mwea",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "217",
         "MP": "Gedion Mutemi Mulyungi",
         "Constituency": "Mwingi Central",
         "Party": "Wiper",
-        "vote": ""
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "218",
         "MP": "Paul Musyimi Nzengu",
         "Constituency": "Mwingi North",
         "Party": "Wiper",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "219",
         "MP": "Charles Ngusya Nguna",
         "Constituency": "Mwingi West",
         "Party": "Wiper",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "220",
         "MP": "Esther Passaris",
-        "Constituency": "",
+        "Constituency": "WR Nairobi",
         "Party": "",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "221",
         "MP": "Jayne Wanjiru Njeri Kihara",
         "Constituency": "Naivasha",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "222",
+        "MP": "Liza Chelule",
+        "Constituency": "WR Nakuru",
+        "Party": "",
+        "": "YES"
+    },
+    {
+        "No.": "223",
         "MP": "David Gikaria",
         "Constituency": "Nakuru Town East",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "224",
         "MP": "Samuel Arama",
         "Constituency": "Nakuru Town West",
         "Party": "JP",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "225",
         "MP": "Geoffey Mulanywa",
         "Constituency": "Nambale",
         "Party": "Independent",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "226",
+        "MP": "Cynthia Muge",
+        "Constituency": "WR Nandi",
+        "Party": "",
+        "": "YES"
+    },
+    {
+        "No.": "227",
         "MP": "Benard Kibor Kitur",
         "Constituency": "Nandi Hills",
         "Party": "UDA",
-        "vote": "ABSENT"
+        "": "ABSENT"
     },
     {
-        "No.": "",
+        "No.": "228",
+        "MP": "Rebecca Tonkei",
+        "Constituency": "WR Tonkei",
+        "Party": "",
+        "": "YES"
+    },
+    {
+        "No.": "229",
         "MP": "Lemanken Aramat",
         "Constituency": "Narok East",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
-        "MP": "Agnes Mantaine Pareyio",
-        "Constituency": "Narok North",
-        "Party": "JP",
-        "vote": ""
-    },
-    {
-        "No.": "",
-        "MP": "Kitilai Ole Ntutu",
-        "Constituency": "Narok South",
-        "Party": "Independent",
-        "vote": ""
-    },
-    {
-        "No.": "",
+        "No.": "230",
         "MP": "Gabriel Koshal Tongoyo",
         "Constituency": "Narok West",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "231",
         "MP": "Emmanuel Wangwe",
         "Constituency": "Navakholo",
         "Party": "ODM",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "232",
         "MP": "George N. Gachagua",
         "Constituency": "Ndaragwa",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "233",
         "MP": "Martin Peters Owino",
         "Constituency": "Ndhiwa",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "234",
         "MP": "George Kariuki",
         "Constituency": "Ndia",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "235",
         "MP": "Charity Kathambi Chepkwony",
         "Constituency": "Njoro",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "236",
         "MP": "Adhe Wario Guyo",
         "Constituency": "North Horr",
         "Party": "KANU",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "237",
         "MP": "Rahim Dawood Abdul",
         "Constituency": "North Imenti",
         "Party": "Independent",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "238",
         "MP": "Joash Nyamoko",
         "Constituency": "North Mugirango",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "239",
         "MP": "Joshua Aduma Owuor",
         "Constituency": "Nyakach",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "240",
         "MP": "Mohammad Ali",
         "Constituency": "Nyali",
         "Party": "UDA",
-        "vote": "ABSENT"
+        "": "ABSENT"
     },
     {
-        "No.": "",
+        "No.": "241",
         "MP": "Jerusha Momanyi",
-        "Constituency": "",
+        "Constituency": "WR Nyamira",
         "Party": "",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "242",
         "MP": "Faith Gitau",
-        "Constituency": "",
+        "Constituency": "WR Nyandarua",
         "Party": "",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "243",
         "MP": "Jared Okello Odoyo",
         "Constituency": "Nyando",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "244",
         "MP": "Zeheer Jhanda",
         "Constituency": "Nyaribari Chache",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "245",
         "MP": "Daniel Ogwoka Manduku",
         "Constituency": "Nyaribari Masaba",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "246",
         "MP": "Tom Mboya Odege",
         "Constituency": "Nyatike",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
-        "MP": "Rahad Mukami",
-        "Constituency": "",
+        "No.": "247",
+        "MP": "Rahab Mukami",
+        "Constituency": "WR Nyeri",
         "Party": "",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "248",
         "MP": "Duncan Maina Mathenge",
         "Constituency": "Nyeri Town",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "249",
         "MP": "Michael Muchira",
         "Constituency": "Ol Jorok",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "250",
         "MP": "Njuguna Kiaraho",
         "Constituency": "Ol Kalou",
         "Party": "JP",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "251",
         "MP": "Wambugu Wainaina",
         "Constituency": "Othaya",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "252",
         "MP": "David Pkosing",
         "Constituency": "Pokot South",
         "Party": "KUP",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "253",
         "MP": "Kenga Anthony Mupe",
         "Constituency": "Rabai",
         "Party": "PAA",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "254",
         "MP": "Lillian Gogo",
         "Constituency": "Rangwe",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "255",
         "MP": "Paul Otiende Amollo",
         "Constituency": "Rarieda",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "256",
         "MP": "Paul Chebor",
         "Constituency": "Rongai",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "257",
         "MP": "Paul Abuor",
         "Constituency": "Rongo",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "258",
         "MP": "Augustine Kamande Mwafrika",
         "Constituency": "Roysambu",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "259",
         "MP": "Joseph Tom Kajwang' Francis",
         "Constituency": "Ruaraka",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "260",
         "MP": "Simon Ng'ang'a Kingara",
         "Constituency": "Ruiru",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "261",
         "MP": "Eric Muchangi",
         "Constituency": "Runyenjes",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "262",
         "MP": "Clement Sloya",
         "Constituency": "Sabatia",
         "Party": "UDA",
-        "vote": "ABSENT"
+        "": "ABSENT"
     },
     {
-        "No.": "",
+        "No.": "263",
         "MP": "Caleb Amisi Luyai",
         "Constituency": "Saboti",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "264",
         "MP": "Dido Ali",
         "Constituency": "Saku",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "265",
         "MP": "Pauline Lenguris",
-        "Constituency": "",
+        "Constituency": "WR Samburu",
         "Party": "",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "266",
         "MP": "Lentoijoni Jackson Lekumontare",
         "Constituency": "Samburu East",
         "Party": "KANU",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "267",
         "MP": "Dominic Eli Letipila",
         "Constituency": "Samburu North",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "268",
         "MP": "Naisula Lesuuda",
         "Constituency": "Samburu West",
         "Party": "KANU",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "269",
         "MP": "James Nyikal",
         "Constituency": "Seme",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "270",
         "MP": "Fred Akana",
         "Constituency": "Shinyalu",
         "Party": "ANC",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "271",
         "MP": "Christine Ombaka",
-        "Constituency": "",
+        "Constituency": "WR Siaya",
         "Party": "",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "272",
         "MP": "Peter Lochakapong",
         "Constituency": "Sigor",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "273",
         "MP": "Justice Kipsang Kemei",
         "Constituency": "Sigowet Soin",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "274",
         "MP": "John Waluke Koyi",
         "Constituency": "Sirisia",
         "Party": "JP",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "275",
         "MP": "Francis Sigei",
         "Constituency": "Sotik",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "276",
         "MP": "Shadrack Mwiti Ithinji",
         "Constituency": "South Imenti",
         "Party": "JP",
-        "vote": "ABSENT"
+        "": "ABSENT"
     },
     {
-        "No.": "",
+        "No.": "277",
         "MP": "Sylvanus Osoro",
         "Constituency": "South Mugirango",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "278",
         "MP": "David Kiplagat",
         "Constituency": "Soy",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "279",
         "MP": "Amos Mwago",
         "Constituency": "Starehe",
         "Party": "JP",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "280",
         "MP": "Millie Grace Akoth Odhiambo",
         "Constituency": "Suba North",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "281",
         "MP": "Caroli Omondi",
         "Constituency": "Suba South",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "282",
         "MP": "Samuel Kinuthia Gachobe",
         "Constituency": "Subukia",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "283",
         "MP": "Junet Mohamed",
         "Constituency": "Suna East",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "284",
         "MP": "Peter Masara",
         "Constituency": "Suna West",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "285",
         "MP": "Amina Dika",
-        "Constituency": "",
+        "Constituency": "WR Tana River",
         "Party": "",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "286",
         "MP": "Hussein Abdi Barre",
         "Constituency": "Tarbaj",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "287",
         "MP": "John Okano Bwire",
         "Constituency": "Taveta",
         "Party": "Wiper",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "288",
         "MP": "Edward Oku Kaunya",
         "Constituency": "Teso North",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "289",
         "MP": "Mary Otucho Emaase",
         "Constituency": "Teso South",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "290",
         "MP": "Geoffrey Wandeto Mwangi",
         "Constituency": "Tetu",
         "Party": "UDA",
-        "vote": "ABSENT"
+        "": "ABSENT"
     },
     {
-        "No.": "",
+        "No.": "291",
         "MP": "George Gitonga Murugara",
         "Constituency": "Tharaka",
         "Party": "UDA",
-        "vote": "YES"
+        "": "YES"
     },
     {
-        "No.": "",
-        "MP": "Alice Wambui Ng'ang'a",
-        "Constituency": "Thika Town",
-        "Party": "UDA",
-        "vote": ""
+        "No.": "292",
+        "MP": "Susan Ngugi",
+        "Constituency": "WR Tharaka Nithi",
+        "Party": "",
+        "": "ABSENT"
     },
     {
-        "No.": "",
+        "No.": "293",
         "MP": "William Kamket Kassait",
         "Constituency": "Tiaty",
         "Party": "KANU",
-        "vote": ""
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "294",
         "MP": "Lawrence Mpuru Aburi",
         "Constituency": "Tigania East",
         "Party": "NOPEU",
-        "vote": ""
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "295",
         "MP": "John Kanyuithia Mutunga",
         "Constituency": "Tigania West",
         "Party": "UDA",
-        "vote": ""
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "296",
         "MP": "Julius Kibiwott Meli",
         "Constituency": "Tinderet",
         "Party": "UDA",
-        "vote": ""
+        "": "YES"
     },
     {
-        "No.": "",
-        "MP": "John Chikati Murumba[7]",
+        "No.": "297",
+        "MP": "John Chikati Murumba",
         "Constituency": "Tongaren",
         "Party": "FORD–Kenya",
-        "vote": ""
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "298",
+        "MP": "Lilian Siyoi",
+        "Constituency": "WR Trans Nzoia",
+        "Party": "",
+        "": "YES"
+    },
+    {
+        "No.": "299",
         "MP": "Janet Jepkemboi Sitienei",
         "Constituency": "Turbo",
         "Party": "UDA",
-        "vote": ""
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "300",
+        "MP": "Cecilia Ngitit",
+        "Constituency": "WR Turkana",
+        "Party": "",
+        "": "ABSENT"
+    },
+    {
+        "No.": "301",
         "MP": "Joseph Namuar Emathe",
         "Constituency": "Turkana Central",
         "Party": "UDA",
-        "vote": ""
+        "": "YES"
     },
     {
-        "No.": "",
-        "MP": "Nicholas Ngikor Nixon Ngikolong",
-        "Constituency": "Turkana East",
-        "Party": "JP",
-        "vote": ""
-    },
-    {
-        "No.": "",
+        "No.": "302",
         "MP": "Paul Ekwom Nabuin",
         "Constituency": "Turkana North",
         "Party": "ODM",
-        "vote": ""
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "303",
         "MP": "John Ariko Namoit",
         "Constituency": "Turkana South",
         "Party": "ODM",
-        "vote": ""
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "304",
         "MP": "Daniel Epuyo Nanok",
         "Constituency": "Turkana West",
         "Party": "UDA",
-        "vote": ""
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "305",
+        "MP": "Gladys Shollei",
+        "Constituency": "WR Uasin Gishu",
+        "Party": "",
+        "": "YES"
+    },
+    {
+        "No.": "306",
         "MP": "David Ochieng",
         "Constituency": "Ugenya",
         "Party": "MDG",
-        "vote": ""
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "307",
         "MP": "Opiyo Wandayi",
         "Constituency": "Ugunja",
         "Party": "ODM",
-        "vote": "NO"
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "308",
         "MP": "Mark Ogolla Nyamita",
         "Constituency": "Uriri",
         "Party": "ODM",
-        "vote": ""
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "309",
         "MP": "Ernest Ogesi",
         "Constituency": "Vihiga",
         "Party": "JP",
-        "vote": ""
+        "": "YES"
     },
     {
-        "No.": "",
-        "MP": "Abdi Chome",
-        "Constituency": "Voi",
-        "Party": "JP",
-        "vote": ""
+        "No.": "310",
+        "MP": "Beatrice Adagala",
+        "Constituency": "WR Vihiga",
+        "Party": "",
+        "": "YES"
     },
     {
-        "No.": "",
-        "MP": "Adan Mohamed Daud",
-        "Constituency": "Wajir East",
-        "Party": "JP",
-        "vote": ""
-    },
-    {
-        "No.": "",
-        "MP": "Ibrahim Abdi Saney",
-        "Constituency": "Wajir North",
-        "Party": "UDA",
-        "vote": ""
-    },
-    {
-        "No.": "",
+        "No.": "311",
         "MP": "Mohamed Adow",
         "Constituency": "Wajir South",
         "Party": "ODM",
-        "vote": ""
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "312",
         "MP": "Yusuf Farah",
         "Constituency": "Wajir West",
         "Party": "ODM",
-        "vote": ""
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "313",
         "MP": "Martin Manyonyi",
         "Constituency": "Webuye East",
         "Party": "FORD–Kenya",
-        "vote": ""
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "314",
+        "MP": "Abdi Daudi Mohammed",
+        "Constituency": "",
+        "Party": "",
+        "": "ABSENT"
+    },
+    {
+        "No.": "315",
         "MP": "Daniel Wanyama",
         "Constituency": "Webuye West",
         "Party": "UDA",
-        "vote": ""
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "316",
         "MP": "Stephen Mogaka",
         "Constituency": "West Mugirango",
         "Party": "JP",
-        "vote": ""
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "317",
+        "MP": "Rael Chepkemoi",
+        "Constituency": "WR West Pokot",
+        "Party": "",
+        "": "YES"
+    },
+    {
+        "No.": "318",
         "MP": "Tim Wanyonyi",
         "Constituency": "Westlands",
         "Party": "ODM",
-        "vote": ""
+        "": "NO"
     },
     {
-        "No.": "",
+        "No.": "319",
         "MP": "Danson Mwashako",
         "Constituency": "Wundanyi",
         "Party": "Wiper",
-        "vote": ""
+        "": "YES"
     },
     {
-        "No.": "",
+        "No.": "320",
         "MP": "Robert Basil Ngui",
         "Constituency": "Yatta",
         "Party": "Wiper",
-        "vote": ""
+        "": "NO"
+    },
+    {
+        "No.": "321",
+        "MP": "Abdisirat Khalif",
+        "Constituency": "",
+        "Party": "",
+        "": "YES"
+    },
+    {
+        "No.": "322",
+        "MP": "Sabina Chege",
+        "Constituency": "Magarini",
+        "Party": "ODM",
+        "": "ABSENT"
+    },
+    {
+        "No.": "323",
+        "MP": "Joseph Hamisi",
+        "Constituency": "Mathioya",
+        "Party": "UDA",
+        "": "YES"
+    },
+    {
+        "No.": "324",
+        "MP": "Harun Suleka",
+        "Constituency": "Mavoko",
+        "Party": "Wiper",
+        "": "YES"
+    },
+    {
+        "No.": "325",
+        "MP": "Dorothy Ikiara",
+        "Constituency": "Moyale",
+        "Party": "UPIA",
+        "": "YES"
+    },
+    {
+        "No.": "326",
+        "MP": "Iraya Joseph",
+        "Constituency": "Narok North",
+        "Party": "JP",
+        "": "YES"
+    },
+    {
+        "No.": "327",
+        "MP": "Kosgei Joseph",
+        "Constituency": "Narok South",
+        "Party": "Independent",
+        "": "ABSENT"
+    },
+    {
+        "No.": "328",
+        "MP": "Irene Mayaka",
+        "Constituency": "",
+        "Party": "",
+        "": "NO"
+    },
+    {
+        "No.": "329",
+        "MP": "Umul Harun",
+        "Constituency": "",
+        "Party": "",
+        "": "NO"
+    },
+    {
+        "No.": "330",
+        "MP": "Teresia Wanjiru Mwangi",
+        "Constituency": "",
+        "Party": "",
+        "": "ABSENT"
+    },
+    {
+        "No.": "331",
+        "MP": "John Mbadi",
+        "Constituency": "",
+        "Party": "ODM",
+        "": "NO"
+    },
+    {
+        "No.": "332",
+        "MP": "Talib Abubakar Ahmed",
+        "Constituency": "",
+        "Party": "",
+        "": "YES"
     }
 ]
