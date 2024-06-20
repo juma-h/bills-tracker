@@ -31,28 +31,46 @@ export default function Home() {
       </div>
 
       <div className="w-full lg:w-3/4 mx-auto mt-8 lg:mt-16 my-5">
-      <p className="text-gray-700">
-            The Kenyan Finance Bill is a legislative proposal that
-            outlines the government&apos;s revenue-raising measures and spending
-            plans for the fiscal year 2024/2025. This bill is a critical
-            component of the national budgetary process, aiming to fund public
-            services, infrastructure development, and various government
-            programs.
-          </p>
-
-        <p className="text-center my-5 ">
-          This
-          <a
-            className="text-orange-600 mx-1" 
-            href="https://globaltaxnews.ey.com/news/2024-1032-kenya-proposes-tax-changes-under-the-finance-bill-2024"
-            target="_blank"
-          >
-            link
-          </a>{" "}
-          summarizes what is proposed in the 2024 act
+        <p className="text-gray-700">
+          The Kenyan Finance Bill is a legislative proposal that outlines the
+          government&apos;s revenue-raising measures and spending plans for the
+          fiscal year 2024/2025. This bill is a critical component of the
+          national budgetary process, aiming to fund public services,
+          infrastructure development, and various government programs.
         </p>
 
-        <h2 className='text-center font-semibold'>Finance Bill Votes</h2>
+        <div className="bg-black p-6 rounded-lg shadow-lg">
+          <h2 className="text-white  mb-4">Resources for Finance Bill 2024</h2>
+          <ul className="text-gray-300 list-disc">
+            <li className="mb-4">
+              <a
+                className="text-orange-600 hover:underline"
+                href="https://chatgpt.com/g/g-JBq7D0E5x-finance-bill-gpt"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Finance Bill GPT
+              </a>{" "}
+              By Kelvin Onkundi. Get to understand the Kenya Finance Bill 2024.
+            </li>
+            <li className="mb-4">
+              <a
+                className="text-orange-600 hover:underline"
+                href="https://globaltaxnews.ey.com/news/2024-1032-kenya-proposes-tax-changes-under-the-finance-bill-2024"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Summary of the Finance Bill 2023
+              </a>
+            </li>
+          </ul>
+        </div>
+
+        <h2 className="text-center font-semibold">Finance Bill Votes</h2>
+        <p className="text-sm  text-center italic text-red-300 mb-2">
+          The current data of 2024 does not have a tally of complete votes but
+          will be updated soon!
+        </p>
 
         {visualization === "charts" && <Example />}
         {visualization === "table" && <TableData />}
